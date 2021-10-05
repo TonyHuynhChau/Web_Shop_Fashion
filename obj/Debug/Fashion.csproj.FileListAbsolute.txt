@@ -1,0 +1,152 @@
+D:\Clone\Upwweb\bin\Fashion.dll.config
+D:\Clone\Upwweb\bin\Fashion.dll
+D:\Clone\Upwweb\bin\Fashion.pdb
+D:\Clone\Upwweb\bin\roslyn\csc.exe
+D:\Clone\Upwweb\bin\roslyn\csc.exe.config
+D:\Clone\Upwweb\bin\roslyn\csc.rsp
+D:\Clone\Upwweb\bin\roslyn\csi.exe
+D:\Clone\Upwweb\bin\roslyn\csi.exe.config
+D:\Clone\Upwweb\bin\roslyn\csi.rsp
+D:\Clone\Upwweb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Clone\Upwweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Clone\Upwweb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Clone\Upwweb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Clone\Upwweb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Clone\Upwweb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Clone\Upwweb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Clone\Upwweb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Clone\Upwweb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Clone\Upwweb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Clone\Upwweb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Clone\Upwweb\bin\roslyn\System.Buffers.dll
+D:\Clone\Upwweb\bin\roslyn\System.Collections.Immutable.dll
+D:\Clone\Upwweb\bin\roslyn\System.Memory.dll
+D:\Clone\Upwweb\bin\roslyn\System.Numerics.Vectors.dll
+D:\Clone\Upwweb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Clone\Upwweb\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Clone\Upwweb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Clone\Upwweb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Clone\Upwweb\bin\roslyn\vbc.exe
+D:\Clone\Upwweb\bin\roslyn\vbc.exe.config
+D:\Clone\Upwweb\bin\roslyn\vbc.rsp
+D:\Clone\Upwweb\bin\roslyn\VBCSCompiler.exe
+D:\Clone\Upwweb\bin\roslyn\VBCSCompiler.exe.config
+D:\Clone\Upwweb\bin\Antlr3.Runtime.dll
+D:\Clone\Upwweb\bin\BouncyCastle.Crypto.dll
+D:\Clone\Upwweb\bin\ICSharpCode.SharpZipLib.dll
+D:\Clone\Upwweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Clone\Upwweb\bin\Microsoft.Web.Infrastructure.dll
+D:\Clone\Upwweb\bin\Newtonsoft.Json.dll
+D:\Clone\Upwweb\bin\NPOI.dll
+D:\Clone\Upwweb\bin\NPOI.OOXML.dll
+D:\Clone\Upwweb\bin\NPOI.OpenXml4Net.dll
+D:\Clone\Upwweb\bin\NPOI.OpenXmlFormats.dll
+D:\Clone\Upwweb\bin\PagedList.dll
+D:\Clone\Upwweb\bin\PagedList.Mvc.dll
+D:\Clone\Upwweb\bin\System.Web.Helpers.dll
+D:\Clone\Upwweb\bin\System.Web.Mvc.dll
+D:\Clone\Upwweb\bin\System.Web.Optimization.dll
+D:\Clone\Upwweb\bin\System.Web.Razor.dll
+D:\Clone\Upwweb\bin\System.Web.WebPages.Deployment.dll
+D:\Clone\Upwweb\bin\System.Web.WebPages.dll
+D:\Clone\Upwweb\bin\System.Web.WebPages.Razor.dll
+D:\Clone\Upwweb\bin\WebGrease.dll
+D:\Clone\Upwweb\bin\BouncyCastle.Crypto.xml
+D:\Clone\Upwweb\bin\ICSharpCode.SharpZipLib.pdb
+D:\Clone\Upwweb\bin\ICSharpCode.SharpZipLib.xml
+D:\Clone\Upwweb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Clone\Upwweb\bin\NPOI.xml
+D:\Clone\Upwweb\bin\NPOI.OOXML.xml
+D:\Clone\Upwweb\bin\NPOI.OpenXml4Net.xml
+D:\Clone\Upwweb\bin\PagedList.xml
+D:\Clone\Upwweb\bin\PagedList.Mvc.xml
+D:\Clone\Upwweb\bin\System.Web.Helpers.xml
+D:\Clone\Upwweb\bin\System.Web.Mvc.xml
+D:\Clone\Upwweb\bin\System.Web.Optimization.xml
+D:\Clone\Upwweb\bin\System.Web.Razor.xml
+D:\Clone\Upwweb\bin\System.Web.WebPages.xml
+D:\Clone\Upwweb\bin\System.Web.WebPages.Deployment.xml
+D:\Clone\Upwweb\bin\System.Web.WebPages.Razor.xml
+D:\Clone\Upwweb\bin\Newtonsoft.Json.xml
+D:\Clone\Upwweb\bin\Antlr3.Runtime.pdb
+D:\Clone\Upwweb\obj\Debug\Fashion.csproj.CoreCompileInputs.cache
+D:\Clone\Upwweb\obj\Debug\Fashion.csproj.CopyComplete
+D:\Clone\Upwweb\obj\Debug\Fashion.dll
+D:\Clone\Upwweb\obj\Debug\Fashion.pdb
+D:\Clone\Upwweb\obj\Debug\Fashion.csproj.AssemblyReference.cache
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\Fashion.dll.config
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\Fashion.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\Fashion.pdb
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\csc.exe
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\csc.exe.config
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\csc.rsp
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\csi.exe
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\csi.exe.config
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\csi.rsp
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\System.Buffers.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\System.Collections.Immutable.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\System.Memory.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\System.Numerics.Vectors.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\System.Reflection.Metadata.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\vbc.exe
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\vbc.exe.config
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\vbc.rsp
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\VBCSCompiler.exe
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\roslyn\VBCSCompiler.exe.config
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\Antlr3.Runtime.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\BouncyCastle.Crypto.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\ICSharpCode.SharpZipLib.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\Microsoft.Web.Infrastructure.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\Newtonsoft.Json.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\NPOI.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\NPOI.OOXML.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\NPOI.OpenXml4Net.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\NPOI.OpenXmlFormats.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\PagedList.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\PagedList.Mvc.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\System.Web.Helpers.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\System.Web.Mvc.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\System.Web.Optimization.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\System.Web.Razor.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\System.Web.WebPages.Deployment.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\System.Web.WebPages.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\System.Web.WebPages.Razor.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\WebGrease.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\BouncyCastle.Crypto.xml
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\ICSharpCode.SharpZipLib.pdb
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\ICSharpCode.SharpZipLib.xml
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\NPOI.xml
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\NPOI.OOXML.xml
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\NPOI.OpenXml4Net.xml
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\PagedList.xml
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\PagedList.Mvc.xml
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\System.Web.Helpers.xml
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\System.Web.Mvc.xml
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\System.Web.Optimization.xml
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\System.Web.Razor.xml
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\System.Web.WebPages.xml
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\System.Web.WebPages.Deployment.xml
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\System.Web.WebPages.Razor.xml
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\Newtonsoft.Json.xml
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\bin\Antlr3.Runtime.pdb
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\obj\Debug\Fashion.csproj.AssemblyReference.cache
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\obj\Debug\Fashion.csproj.CoreCompileInputs.cache
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\obj\Debug\Fashion.csproj.CopyComplete
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\obj\Debug\Fashion.dll
+F:\Source_Shop_ban_quan_ao\Source Shop thoi trang\obj\Debug\Fashion.pdb
